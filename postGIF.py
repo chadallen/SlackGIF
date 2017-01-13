@@ -33,3 +33,4 @@ sc.api_call(
     as_user="true",
     attachments=[{"title": "Cat GIF", "image_url": catImagePath}]
 )
+
