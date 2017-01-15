@@ -1,0 +1,3 @@
+import postGIFtoSlack
+
+action = postGIFtoSlack
